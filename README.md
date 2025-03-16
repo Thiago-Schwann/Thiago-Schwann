@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thiago-schwann&"  />
 </div>
 
 ###
@@ -38,8 +38,14 @@
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="40" alt="rust logo"  />
-
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" height="40" alt="mysql logo"  />
+  
 </div>
 
 ###
