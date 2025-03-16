@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/25b4f35c-e3b8-4943-b3a5-1ef56e6e9532)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
