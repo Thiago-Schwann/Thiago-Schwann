@@ -1,11 +1,56 @@
-## Bem-vindo(a) ao meu perfil! 🤗
-
-
-
- 
- 
-<div> 
-  <a href="https://instagram.com/thiag.carve" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/thiago-carvalho-b0215a208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+![image](https://github.com/user-attachments/assets/25b4f35c-e3b8-4943-b3a5-1ef56e6e9532)
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="" target ="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /><a/>
+  <a href="https://instagram.com/thiag.carve" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-carvalho-b0215a208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">Hey there! 👋</h1>
+
+###
+
+<h3 align="left">🎯  About Me</h3>
+
+###
+
+<p align="left">I'm Thiago Carvalho from Brazil<br><br>- 🔭 I’m working as an intern at TJSP, gaining experience in software development and automation.<br>- 📚 I'm currently learning data science and data analysis with Python.  
+<br>- ⚡ In my free time I go to the gym, study, and spend time with my friends.</p>  </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="40" alt="rust logo"  />
+
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
