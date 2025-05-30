@@ -44,7 +44,9 @@
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" height="40" alt="mysql logo"  />
-  <img src="https://seeklogo.com/images/L/langchain-logo-4C4FAFED53-seeklogo.com.png" height="40" alt="langchain logo" />
+  <img width="12" />
+  <img src="[https://seeklogo.com/images/L/langchain-logo-4C4FAFED53-seeklogo.com.png](https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png
+  )" height="40" alt="langchain logo"/>
   <img width="12" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="pandas logo" />
 </div>
