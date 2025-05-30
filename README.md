@@ -33,6 +33,9 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+![image](https://github.com/user-attachments/assets/09a16427-fe59-4c64-82d3-e7cfc0327df5)
+![image](https://github.com/user-attachments/assets/0bb77c2d-1b79-4b60-9ec3-f19a251c4ff4)
+
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
@@ -44,6 +47,11 @@
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
+  <img width="12" />
   
 </div>
 
