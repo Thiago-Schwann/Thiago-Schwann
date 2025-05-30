@@ -35,6 +35,12 @@
 ###
 
 <div align="left">
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub] (https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![Python] (https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![LangChain] (https://img.shields.io/badge/-LangChain-05122A?style=flat& logo-chainlink) 
+![AI](https://img.shields.io/badge/-IA-05122A?style=flat&logo=openai) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo-pandas
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="40" alt="java logo"  />
