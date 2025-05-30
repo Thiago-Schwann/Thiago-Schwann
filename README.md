@@ -34,14 +34,17 @@
 
 ###
 
-![Git](https://github.com/user-attachments/assets/afd68c59-9394-4c0f-a0d2-d5255bec1c83)
-![GitHub](https://github.com/user-attachments/assets/1564ebd0-a45b-4e0f-8265-6d84c66cd058)
-![Python](https://github.com/user-attachments/assets/00d778df-50ae-4410-8723-e4b2724c67b3)
-![LangChain](https://github.com/user-attachments/assets/c3cbbd8e-cb8b-4ac5-a7af-b402e4067cb1)
-![Java](https://github.com/user-attachments/assets/e6bdb62c-db5f-4da7-8f69-1462375ce35d)
-![Pandas](https://github.com/user-attachments/assets/1e3e44a8-2e17-4b88-bbc0-76f3c93d8c30)
-![HTML](https://github.com/user-attachments/assets/f545a9cf-f241-43e8-9efb-3e6de7052b87)
-![CSS](https://github.com/user-attachments/assets/7d0f45b1-12be-4b6b-8ca6-feafaf68e4d1)
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="py logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" height="40" alt="mysql logo"  />
+</div>
 
 ###
 
