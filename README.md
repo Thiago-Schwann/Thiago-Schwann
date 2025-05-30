@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="40" alt="langchain logo"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="50" alt="langchain logo"/>
   <img width="12" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="pandas logo" />
 </div>
