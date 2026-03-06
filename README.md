@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Thiago Carvalho from Brazil! 🇧🇷<br><br>- 🔭 I’m working as an intern at TJSP, gaining experience in software development and automation.<br>- 📚 I'm currently learning AI and data analysis with Python.  
+<p align="left">I'm Thiago Carvalho from Brazil! 🇧🇷<br><br>- 📚 I'm a technologist in Systems Analysis and Development, focused on data analysis, automation and AI development with Python. 
 <br>- ⚡ In my free time, I hit the gym for fun, but I mostly chill watching anime and getting lost in RPGs and Roguelike games.</p>  </p>
 
 ###
